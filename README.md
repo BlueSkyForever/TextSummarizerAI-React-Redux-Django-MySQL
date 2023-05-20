@@ -1,0 +1,1 @@
+This application Summarizer articles using OpenAI's GPT model and rapid API, It generates AI images and cards for designing. I will build this application using ReactJS with Vite, Tailwind CSS, Redux and OpenAI's API.
